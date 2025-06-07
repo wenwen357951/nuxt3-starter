@@ -2,11 +2,11 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxtjs/storybook',
-    '@pinia/nuxt',
     '@nuxtjs/tailwindcss',
     '@nuxt/test-utils',
     '@nuxt/icon',
     '@nuxt/eslint',
+    '@pinia/nuxt',
   ],
   devtools: { enabled: true },
   srcDir: 'src/',
