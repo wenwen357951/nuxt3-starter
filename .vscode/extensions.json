@@ -6,6 +6,7 @@
     "nuxtr.nuxt-vscode-extentions",
     "mubaidr.vuejs-extension-pack",
     "ms-vscode.vscode-typescript-next",
-    "xabikos.javascriptsnippets"
+    "xabikos.javascriptsnippets",
+    "antfu.iconify"
   ]
 }
