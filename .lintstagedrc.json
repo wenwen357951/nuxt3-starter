@@ -1,0 +1,4 @@
+{
+  "*.{js,jsx,ts,tsx,vue}": ["pnpm format:write", "pnpm lint:fix"],
+  "*.md": ["prettier --write"]
+}
