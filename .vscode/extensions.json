@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "nuxtr.nuxt-vscode-extentions",
+    "mubaidr.vuejs-extension-pack",
+    "ms-vscode.vscode-typescript-next",
+    "xabikos.javascriptsnippets"
+  ]
+}
