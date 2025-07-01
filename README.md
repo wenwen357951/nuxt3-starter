@@ -2,8 +2,9 @@
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/wenwen357951/nuxt3-starter/ci.yml?branch=main&style=for-the-badge)](https://github.com/wenwen357951/nuxt3-starter/actions)
 [![License](https://img.shields.io/github/license/wenwen357951/nuxt3-starter?style=for-the-badge)](LICENSE)
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
-[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)](https://storybook.js.org/)
+[![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=fff)](https://pnpm.io/)
+[![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=fff)](https://nuxt.com/)
+[![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)](https://storybook.js.org/)
 
 A comprehensive and opinionated Nuxt 3 starter kit designed to help you kickstart your next great project. It comes with industry-standard tools pre-configured to provide an excellent developer experience.
 
