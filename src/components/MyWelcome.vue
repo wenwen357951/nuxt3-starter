@@ -1,5 +1,6 @@
 <template>
   <h1>Welcome Nuxt to Storybook</h1>
+  <Nu xt-img src="/stories/assets/tutorials.svg" width="200" />
   <NuxtWelcome />
 </template>
 
